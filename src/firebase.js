@@ -1,10 +1,10 @@
 const config = {
-  apiKey: "AIzaSyA0DkxxWot8Hrejbi27uAlZBSyg1yd8PzM",
-  authDomain: "fun-food-chat.firebaseapp.com",
-  databaseURL: "https://fun-food-chat.firebaseio.com",
-  projectId: "fun-food-chat",
-  storageBucket: "fun-food-chat.appspot.com",
-  messagingSenderId: "956154665293"
+  apiKey: "YOUR OWN",
+  authDomain: "YOUR OWN",
+  databaseURL: "YOUR OWN",
+  projectId: "YOUR OWN",
+  storageBucket: "YOUR OWN",
+  messagingSenderId: "YOUR OWN"
 };
 
 let firebase = window.firebase.initializeApp(config); //loads the firebase from index.html script.
